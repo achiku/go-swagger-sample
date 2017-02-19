@@ -1,0 +1,12 @@
+gom 'github.com/justinas/alice'
+gom 'github.com/rs/xlog'
+gom 'github.com/BurntSushi/toml'
+gom 'github.com/pkg/errors'
+gom 'github.com/gorilla/mux'
+gom 'github.com/go-swagger/go-swagger/cmd/swagger'
+
+gom 'github.com/go-openapi/runtime'
+gom 'github.com/tylerb/graceful'
+gom 'github.com/jessevdk/go-flags'
+gom 'golang.org/x/net/context'
+
